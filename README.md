@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Clone the repo.
 
 
-  git clone https://github.com/srivastavaaviral1/ecom-demo.git
+  git clone https://github.com/Prahladk09/ecom-webapp.git
 
 * Install all the dependencies
 
