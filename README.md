@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Install all the dependencies
 
   
-  cd ecom-demo
+  cd ecom-webapp
 
   npm i
 
